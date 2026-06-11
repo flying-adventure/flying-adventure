@@ -12,12 +12,6 @@
          <a href=mailto:ahnsoobin6870@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ahnsoobin6870@gmail.com"> </a>
           </div>  <br> 
     </div>
-    ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z3rotig4r/flying-adventure/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flying-adventure/flying-adventure/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/flying-adventure/flying-adventure/output/github-snake.svg" />
-</picture>
     
 
