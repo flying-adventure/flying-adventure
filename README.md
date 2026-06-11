@@ -19,3 +19,10 @@
 </picture>
     
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flying-adventure/flying-adventure/main/profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flying-adventure/flying-adventure/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3d contrib" src="https://raw.githubusercontent.com/flying-adventure/flying-adventure/main/profile-3d-contrib/profile-green-animate.svg" />
+  </picture>
+</div>
